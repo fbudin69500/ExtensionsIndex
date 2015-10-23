@@ -7,7 +7,7 @@ enabled 1
 homepage http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Extensions/AnglePlanes
 iconurl https://raw.githubusercontent.com/DCBIA-OrthoLab/AnglePlanes-Extension/master/AnglePlanes.png
 scm git
-scmrevision 818857f88177be24bfefe9f8a260606b576dc26a
+scmrevision f233f96a5380dae3bc856a98e6c22abe97ba1e96
 scmurl git://github.com/DCBIA-OrthoLab/AnglePlanes-Extension.git
 screenshoturls http://www.slicer.org/slicerWiki/images/b/ba/Interface_AnglePlanes.png
 status
