@@ -7,7 +7,7 @@ enabled 1
 homepage http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Extensions/EasyClip
 iconurl https://raw.githubusercontent.com/DCBIA-OrthoLab/EasyClip-Extension/master/EasyClip.png
 scm git
-scmrevision 471be581071c78279bdaf3bb60fa29810cf09e6f
+scmrevision f9aab7a1ba14c646b43a3ecff3bca065acafe73f
 scmurl git://github.com/DCBIA-OrthoLab/EasyClip-Extension.git
 screenshoturls http://www.slicer.org/slicerWiki/images/1/1b/EasyClipPlanePosition.png
 status
